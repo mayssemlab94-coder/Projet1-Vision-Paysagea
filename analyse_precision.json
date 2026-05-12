@@ -1,0 +1,41 @@
+{
+  "style_jardin": "Jardin paysager",
+  "zones_plantables": [
+    {
+      "nom_zone": "Pelouse centrale",
+      "coordonnees": {
+        "ymin": 390,
+        "xmin": 0,
+        "ymax": 1000,
+        "xmax": 1000
+      }
+    },
+    {
+      "nom_zone": "Parterre de fleurs gauche",
+      "coordonnees": {
+        "ymin": 320,
+        "xmin": 0,
+        "ymax": 390,
+        "xmax": 350
+      }
+    },
+    {
+      "nom_zone": "Bordure plantée droite",
+      "coordonnees": {
+        "ymin": 290,
+        "xmin": 580,
+        "ymax": 390,
+        "xmax": 1000
+      }
+    },
+    {
+      "nom_zone": "Ilot central planté",
+      "coordonnees": {
+        "ymin": 150,
+        "xmin": 280,
+        "ymax": 370,
+        "xmax": 670
+      }
+    }
+  ]
+}
