@@ -2,7 +2,7 @@ from google import genai
 from pydantic import BaseModel
 
 # 1. On initialise l'IA (Mets TA clé API à la place de TA_CLE_API_ICI)
-client = genai.Client(api_key="AIzaSyArRR7eTVn12B4fz4gx-p37KATgqIUMmrI")
+client = genai.Client(api_key="CLE API")
 
 # 2. Le format spécial pour les coordonnées (ymin, xmin, ymax, xmax)
 class BoiteCoordonnees(BaseModel):
